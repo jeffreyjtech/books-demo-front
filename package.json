@@ -35,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Somehin",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyjtech/can-of-books-frontend.git"
+  },
+  "author": "Jeffrey Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreyjtech/can-of-books-frontend/issues"
+  },
+  "homepage": "https://github.com/jeffreyjtech/can-of-books-frontend#readme"
 }
